@@ -7,3 +7,6 @@
 [submodule "contracts"]
 	path = contracts
 	url = https://github.com/Peyton-Spencer/ethden-2023
+[submodule "ethden-2023"]
+	path = ethden-2023
+	url = git@github.com-ps:Peyton-Spencer/ethden-2023.git
