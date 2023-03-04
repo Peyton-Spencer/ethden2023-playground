@@ -1,0 +1,3 @@
+[submodule "blacksmith"]
+	path = blacksmith
+	url = https://github.com/blacksmith-eth/blacksmith
