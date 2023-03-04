@@ -6,4 +6,4 @@
 	url = https://github.com/smartcontractkit/functions-hardhat-starter-kit
 [submodule "contracts"]
 	path = contracts
-	url = git@github.com-ps:Peyton-Spencer/ethden-2023.git
+	url = git@github.com:Peyton-Spencer/ethden-2023.git
