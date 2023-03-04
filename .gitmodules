@@ -1,3 +1,9 @@
 [submodule "blacksmith"]
 	path = blacksmith
 	url = https://github.com/blacksmith-eth/blacksmith
+[submodule "functions-hardhat-starter-kit"]
+	path = functions-hardhat-starter-kit
+	url = https://github.com/smartcontractkit/functions-hardhat-starter-kit
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/Peyton-Spencer/ethden-2023
