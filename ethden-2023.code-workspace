@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../ethden2023-playground/contracts"
+		},
+		{
+			"path": "../ethden2023-playground/functions-hardhat-starter-kit"
+		},
+		{
+			"path": "../ethden2023-playground/blacksmith"
+		}
+	],
+	"settings": {
+		"solidity.compileUsingRemoteVersion": "v0.8.19+commit.7dd6d404",
+		"solidity.formatter": "forge",
+		"solidity.linter": "solhint",
+		"solidity.packageDefaultDependenciesContractsDirectory": "src",
+		"solidity.packageDefaultDependenciesDirectory": "lib"
+	}
+}
